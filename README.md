@@ -1,9 +1,5 @@
 # DL-and-Gen-AI-Project
 
-Name: Jagannathan K R
-
-Roll Number: 24F1002325
-
 
 # Multi-Label Emotion Classification using Deep Learning
 
