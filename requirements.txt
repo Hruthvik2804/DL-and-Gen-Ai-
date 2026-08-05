@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+jupyter
+matplotlib
+seaborn
+nltk
+bs4
+wordcloud
+contractions
+transformers
+datasets
+evaluate
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+transformers[torch]
+huggingface_hub[hf_xet]
+hf_xet
+wandb
